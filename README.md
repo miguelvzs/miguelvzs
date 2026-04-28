@@ -1,85 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=miguel%20vaz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=fullstack%20developer&descAlignY=58&descSize=18&descColor=888888" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:000000&height=250&section=header&text=miguel%20vaz&fontSize=70&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=fullstack%20developer&descAlignY=65&descSize=20&descColor=666666" width="100%"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=building+things+that+just+work.;clean+code+%7C+good+architecture+%7C+ux;always+learning.+always+shipping.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=miguelvzs&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_title=true&rank_icon=github"/>
+
+### `> whoami`
+
+```yaml
+name:     Miguel Vaz
+role:     Fullstack Developer
+focus:    Web Development
+values:   [clean code, solid architecture, good UX]
+status:   open to opportunities
 ```
-> whoami
-  fullstack developer. building things that just work.
-  
-> status
-  always learning. always shipping.
-```
 
-<br/>
+<br clear="right"/>
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=miguelvzs&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=888888&icon_color=ffffff" width="420"/>
-
-### `$ about me`
-
-- 🛠️ Fullstack dev focused on **web development**
-- 🎯 Passionate about clean code and solid architecture
-- 🌱 Always learning something new
-- ⚡ If it works, I probably spent hours debugging it
-
-<br/><br/><br/>
-
----
-
-<br/>
-
-### `$ stack`
+### `> stack`
 
 <div align="center">
 
-**— frontend —**
+| frontend | backend | tools |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | | |
 
-![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=3178C6)
+</div>
 
-**— backend —**
+---
 
-![C#](https://img.shields.io/badge/C%23-0f0f0f?style=for-the-badge&logo=csharp&logoColor=239120)
-![MySQL](https://img.shields.io/badge/MySQL-0f0f0f?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Docker](https://img.shields.io/badge/Docker-0f0f0f?style=for-the-badge&logo=docker&logoColor=2496ED)
+### `> stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&langs_count=6"/>
+<img height="180" src="https://streak-stats.demolab.com?user=miguelvzs&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/miguelvzs/miguelvzs/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
-### `$ stats`
+### `> connect`
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=miguelvzs&theme=dark&hide_border=true&background=0f0f0f&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&theme=dark&hide_border=true&bg_color=0f0f0f&title_color=ffffff&text_color=888888)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelvzs)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelsouza7970@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miguelvzs)
 
 </div>
 
 <br/>
 
----
-
-### `$ connect`
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/miguelvzs)
-[![Email](https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:miguelsouza7970@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/miguelvzs)
-
+<img src="https://komarev.com/ghpvc/?username=miguelvzs&label=profile+views&color=555555&style=flat" alt="profile views"/>
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=100&section=footer" width="100%"/>
