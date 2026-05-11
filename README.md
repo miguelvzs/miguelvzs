@@ -22,10 +22,9 @@
 name:     Miguel Vaz
 role:     Fullstack Developer
 focus:    Web Development
-values:   [clean code, solid architecture, good UX]
 status:   open to opportunities
+values:   [clean code, solid architecture, good UX]
 ```
-
 <br clear="right"/>
 
 ---
