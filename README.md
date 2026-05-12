@@ -63,7 +63,7 @@ values:   [clean code, solid architecture, good UX]
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&text_color=777777&langs_count=6"/>
+<img height="175" src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&text_color=777777&langs_count=6"/>
 &nbsp;&nbsp;
 <img height="175" src="https://streak-stats.demolab.com?user=miguelvzs&theme=dark&hide_border=true&background=00000000&ring=aaaaaa&fire=cccccc&currStreakLabel=cccccc&sideLabels=777777&currStreakNum=eeeeee&sideNums=cccccc&dates=555555"/>
 
