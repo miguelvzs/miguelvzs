@@ -40,7 +40,6 @@ values:   [clean code, solid architecture, good UX]
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=aaaaaa)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=aaaaaa)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=aaaaaa)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=aaaaaa)
 
 <br/>
 
@@ -48,7 +47,6 @@ values:   [clean code, solid architecture, good UX]
 
 ![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=aaaaaa)
 ![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=aaaaaa)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=aaaaaa)
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=aaaaaa)
 
 </div>
