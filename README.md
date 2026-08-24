@@ -55,13 +55,3 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 </div>
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · ·`
-
-</div>
-
-<br/>
-
-
-</div>
