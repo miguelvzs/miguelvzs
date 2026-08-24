@@ -63,6 +63,5 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=miguelvzs&label=profile+views&color=cccccc&style=flat-square" alt="profile views"/>
 
 </div>
