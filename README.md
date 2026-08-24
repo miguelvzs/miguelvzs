@@ -1,97 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:111111&height=200&section=header&text=miguel%20vaz&fontSize=65&fontColor=eeeeee&fontAlignY=45&animation=fadeIn&desc=fullstack%20developer&descAlignY=65&descSize=18&descColor=777777" width="100%"/>
+<pre>
+┌─[ miguel@github ]
+└──╼ fullstack developer
+</pre>
+
+**Miguel Vaz**
+Fullstack Developer — open to opportunities
+
+</div>
+
+Building web products end to end — C#/MySQL on the backend, JS/TS on the front. Lately: small AI-assisted automation pipelines on the side.
+
+<div align="center">
+
+`· · · · · · · · · · · · · · · · · · · ·`
+
+</div>
+
+### Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,py,mysql,git" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=imagining+'n'+building.;;always+learning.+always+evolving.)](https://git.io/typing-svg)
+`· · · · · · · · · · · · · · · · · · · ·`
 
 </div>
 
-<br/>
+### Featured projects
 
----
-
-<img align="right" height="175" src="https://github-readme-stats.vercel.app/api?username=miguelvzs&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&text_color=777777&icon_color=aaaaaa&hide_title=true&rank_icon=github"/>
-
-### `> whoami`
-
-```yaml
-name:     Miguel Vaz
-role:     Fullstack Developer
-focus:    Web Development
-status:   open to opportunities
-values:   [clean code, solid architecture, good UX]
-```
-<br clear="right"/>
-
----
-
-### `> stack`
-
-<br/>
+| Project | Stack | About |
+|---|---|---|
+| [validador-registros-tabulares](https://github.com/miguelvzs/validador-registros-tabulares) | Python | AI-assisted data-quality filter for spreadsheet records — n8n + HTTP API + MCP |
+| [pipeline-tendencia-conteudo](https://github.com/miguelvzs/pipeline-tendencia-conteudo) | Python | Autonomous trend→post pipeline: signal capture, AI triage, art/video gen, TikTok publish |
+| [portfolio](https://github.com/miguelvzs/portfolio) | TypeScript | Personal portfolio site |
+| [cortex-demo](https://github.com/miguelvzs/cortex-demo) | JavaScript | Read-only demo build — fictional data, no live backend |
 
 <div align="center">
 
-**frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=aaaaaa)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=aaaaaa)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=aaaaaa)
-
-<br/>
-
-**backend**
-
-![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=aaaaaa)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=aaaaaa)
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=aaaaaa)
+`· · · · · · · · · · · · · · · · · · · ·`
 
 </div>
 
-<br/>
-
----
-
-### `> stats`
-
-<br/>
+### Activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=cccccc&text_color=777777&langs_count=6"/>
-&nbsp;&nbsp;
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelvzs&theme=minimal&hide_border=true&area=true" width="100%"/>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/miguelvzs/miguelvzs/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/miguelvzs/miguelvzs/output/github-contribution-grid-snake-dark.svg)
+`· · · · · · · · · · · · · · · · · · · ·`
 
 </div>
-
----
-
-### `> connect`
-
-<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=aaaaaa)](https://linkedin.com/in/miguelvzs)
-[![Gmail](https://img.shields.io/badge/Gmail-1a1a1a?style=for-the-badge&logo=gmail&logoColor=aaaaaa)](mailto:miguelsouza7970@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=aaaaaa)](https://github.com/miguelvzs)
+**[LinkedIn](https://linkedin.com/in/miguelvzs) · [Email](mailto:miguelsouza7970@gmail.com) · [GitHub](https://github.com/miguelvzs)**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=miguelvzs&label=profile+views&color=1a1a1a&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=miguelvzs&label=profile+views&color=cccccc&style=flat-square" alt="profile views"/>
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:1a1a1a&height=100&section=footer" width="100%"/>
