@@ -63,11 +63,11 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 <div align="center">
 
-<a href="https://linkedin.com/in/miguelvzs"><img src="https://cdn.simpleicons.org/linkedin/888888" width="22" height="22" alt="LinkedIn"/></a>
+<a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=linkedin&logoColor=555555" width="26" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
-<a href="mailto:miguelsouza7970@gmail.com"><img src="https://cdn.simpleicons.org/gmail/888888" width="22" height="22" alt="Email"/></a>
+<a href="mailto:miguelsouza7970@gmail.com"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=gmail&logoColor=555555" width="26" alt="Email"/></a>
 &nbsp;&nbsp;
-<a href="https://github.com/miguelvzs"><img src="https://cdn.simpleicons.org/github/888888" width="22" height="22" alt="GitHub"/></a>
+<a href="https://github.com/miguelvzs"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=github&logoColor=555555" width="26" alt="GitHub"/></a>
 
 <br/>
 
