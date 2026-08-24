@@ -61,14 +61,6 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 </div>
 
-<div align="center">
-
-<a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=linkedin&logoColor=555555" width="26" alt="LinkedIn"/></a>
-&nbsp;&nbsp;
-<a href="mailto:miguelsouza7970@gmail.com"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=gmail&logoColor=555555" width="26" alt="Email"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/miguelvzs"><img src="https://img.shields.io/badge/-eeeeee?style=flat-square&logo=github&logoColor=555555" width="26" alt="GitHub"/></a>
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=miguelvzs&label=profile+views&color=cccccc&style=flat-square" alt="profile views"/>
