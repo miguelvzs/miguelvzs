@@ -12,12 +12,6 @@
 
 Building web products end to end — C#/MySQL on the backend, JS/TS on the front. Lately: small AI-assisted automation pipelines on the side.
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · ·`
-
-</div>
-
 ### Stack
 
 <div align="center">
