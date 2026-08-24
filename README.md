@@ -20,12 +20,6 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 </div>
 
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · ·`
-
-</div>
-
 ### Featured projects
 
 | Project | Stack | About |
@@ -34,12 +28,6 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 | [pipeline-tendencia-conteudo](https://github.com/miguelvzs/pipeline-tendencia-conteudo) | Python | Autonomous trend→post pipeline: signal capture, AI triage, art/video gen, TikTok publish |
 | [portfolio](https://github.com/miguelvzs/portfolio) | TypeScript | Personal portfolio site |
 | [cortex-demo](https://github.com/miguelvzs/cortex-demo) | JavaScript | Read-only demo build — fictional data, no live backend |
-
-<div align="center">
-
-`· · · · · · · · · · · · · · · · · · · ·`
-
-</div>
 
 ### Activity
 
