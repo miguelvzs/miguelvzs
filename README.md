@@ -8,6 +8,8 @@
 **Miguel Vaz**
 Fullstack Developer — open to opportunities
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=888888&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=50&lines=imagining+'n'+building.;;always+learning.+always+evolving.)](https://git.io/typing-svg)
+
 </div>
 
 Building web products end to end — C#/MySQL on the backend, JS/TS on the front. Lately: small AI-assisted automation pipelines on the side.
@@ -51,10 +53,6 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=miguelvzs&theme=minimal&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/miguelvzs/miguelvzs/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
@@ -67,7 +65,11 @@ Building web products end to end — C#/MySQL on the backend, JS/TS on the front
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com/in/miguelvzs) · [Email](mailto:miguelsouza7970@gmail.com) · [GitHub](https://github.com/miguelvzs)**
+<a href="https://linkedin.com/in/miguelvzs"><img src="https://cdn.simpleicons.org/linkedin/888888" width="22" height="22" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:miguelsouza7970@gmail.com"><img src="https://cdn.simpleicons.org/gmail/888888" width="22" height="22" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/miguelvzs"><img src="https://cdn.simpleicons.org/github/888888" width="22" height="22" alt="GitHub"/></a>
 
 <br/>
 
