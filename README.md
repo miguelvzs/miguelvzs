@@ -21,7 +21,6 @@ Building web products end to end — C#/MySQL on the backend, JS on the front. L
 | [validador-registros-tabulares](https://github.com/miguelvzs/validador-registros-tabulares) | Python | AI-assisted data-quality filter for spreadsheet records — n8n + HTTP API + MCP |
 | [pipeline-tendencia-conteudo](https://github.com/miguelvzs/pipeline-tendencia-conteudo) | Python | Autonomous trend→post pipeline: signal capture, AI triage, art/video gen, TikTok publish |
 | [portfolio](https://github.com/miguelvzs/portfolio) | TypeScript | Personal portfolio site |
-| [cortex-demo](https://github.com/miguelvzs/cortex-demo) | JavaScript | Read-only demo build — fictional data, no live backend |
 
 ### Activity
 
