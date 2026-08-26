@@ -4,13 +4,13 @@
 
 </div>
 
-Building web products end to end — C#/MySQL on the backend, JS/TS on the front. Lately: small AI-assisted automation pipelines on the side.
+Building web products end to end — C#/MySQL on the backend, JS on the front. Lately: small AI-assisted automation pipelines on the side.
 
 ### Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,csharp,py,mysql,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,csharp,py,mysql,git" />
 
 </div>
 
