@@ -30,3 +30,19 @@ Building web products end to end — C#/MySQL on the backend, JS on the front. L
 
 </div>
 
+## GitHub Analytics
+
+<img src="https://github-readme-stats-fmvini.vercel.app/api?username=fmvini&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E8E8E8&icon_color=9CA3AF&text_color=B0B0B0&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fmvini&hide_border=true&background=0D0D0D&ring=9CA3AF&fire=E8E8E8&currStreakLabel=E8E8E8&sideLabels=B0B0B0&currStreakNum=E8E8E8&sideNums=B0B0B0&dates=6B6B6B&stroke=1A1A1A" width="48%"/>
+
+<img src="https://github-readme-stats-miguelvzs.vercel.app/api/top-langs/?username=fmvini&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E8E8E8&text_color=B0B0B0&cache_seconds=86400" width="48%"/>
+
+</div>
+
+<!-- <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=fmvini&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</div> -->
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fmvini&bg_color=0D0D0D&color=9CA3AF&line=6B6B6B&point=E8E8E8&hide_border=true" width="95%"/>
+</div>
