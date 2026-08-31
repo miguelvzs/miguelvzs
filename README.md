@@ -10,7 +10,7 @@ Building web products end to end — C#/MySQL on the backend, JS on the front. L
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,csharp,py,mysql,git" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,csharp,py,postgresql,git" />
 
 </div>
 
