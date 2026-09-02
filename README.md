@@ -4,7 +4,7 @@
 
 </div>
 
-Building web products end to end — C#/MySQL on the backend, JS on the front. Lately: small AI-assisted automation pipelines on the side.
+Building web products end to end.
 
 ### Stack
 
