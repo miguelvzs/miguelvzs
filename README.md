@@ -62,7 +62,7 @@ Trend to post with no human in the loop: signal capture, AI triage, art and vide
 <td width="50%" valign="top">
 
 **[Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon)** <sub>· [demo](https://quebra-gelo.julioakamine.com)</sub><br/>
-Built at the DevDay Exchange Community Hackathon (OpenAI Codex community, São Paulo): a virtual pet that only moves forward when you meet someone for real, with a live board for organizers.<br/>
+Built at the OpenAI DevDay Exchange Hackathon, run by OpenAI's Codex Ambassadors in São Paulo: a virtual pet that only moves forward when you meet someone for real, with a live board for organizers.<br/>
 <sub>TypeScript · Vite · Express</sub>
 
 </td>
