@@ -68,7 +68,7 @@ Hackathon: a virtual pet that only moves forward when you meet someone for real,
 </td>
 <td width="50%" valign="top">
 
-**[vellfinancing](https://github.com/miguelvzs/vellfinancing)** <sub>· [live](https://mvfinancing.vercel.app)</sub><br/>
+**[vellfinancing](https://github.com/miguelvzs/vellfinancing)**<br/>
 Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV bank import.<br/>
 <sub>JavaScript · Drizzle · Postgres</sub>
 
