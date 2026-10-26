@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:111111&height=200&section=header&text=miguel%20vaz&fontSize=65&fontColor=eeeeee&fontAlignY=45&animation=fadeIn&desc=full%20stack%20developer%20%C2%B7%20AI%20engineering&descAlignY=65&descSize=18&descColor=777777" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:111111&height=200&section=header&text=miguel%20vaz&fontSize=65&fontColor=eeeeee&fontAlignY=45&animation=twinkling&desc=full%20stack%20developer%20%C2%B7%20AI%20engineering&descAlignY=65&descSize=18&descColor=777777" width="100%"/>
 
-I ship systems to production end to end, with AI built in where it solves a real problem.
+<a href="https://miguelvaz.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=B0B0B0&center=true&vCenter=true&width=520&lines=shipping+systems+to+production+end+to+end;LLM+agents+that+validate+and+recover+data;MCP+servers+%C2%B7+cloud+%C2%B7+CI%2FCD;TypeScript+%C2%B7+Next.js+%C2%B7+Postgres+%C2%B7+Python" alt="Typing intro"/></a>
 
 <a href="https://miguelvaz.vercel.app"><img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=vercel&logoColor=eeeeee" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=eeeeee" alt="LinkedIn"/></a>
