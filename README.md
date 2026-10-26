@@ -16,7 +16,7 @@ I ship systems to production end to end, with AI built in where it solves a real
 
 - 🛠️ Full stack in TypeScript: architecture, front end, back end, cloud, security and deploy
 - 🤖 LLMs in real systems: agents that classify, extract and validate data, plus MCP servers that expose tools to agents
-- ☁️ Cloud migrations to Google Cloud, gated deploys with GitHub Actions, health checks and rollback
+- Cloud migrations to Google Cloud, gated deploys with GitHub Actions, health checks and rollback
 - 🧪 Spec-driven development, 550+ automated tests across projects
 - 🏭 Came from R&D and operations in manufacturing, which shapes what I build
 - 🎓 Systems Development at SENAI, Systems Analysis and Development at IFSP
