@@ -24,17 +24,14 @@ I ship systems to production end to end: architecture, front end and back end in
 
 | Project | Stack | About |
 |---|---|---|
+| **Morada** · *private, in progress* | Expo · Next.js · Prisma · Postgres | Mobile app for immigrants: income and expenses, who still owes you, goals, document deadlines and a city community. pt/es/en, launching in Spain, Portugal, Ireland and the US |
+| **Media ops hub** · *client work* | Next.js 16 · Prisma · Postgres · AI SDK | Internal system for a media company in production: display points, content library, scheduling, production, contracts and billing, with an AI assistant |
 | [validador-registros-tabulares](https://github.com/miguelvzs/validador-registros-tabulares) | Python · FastAPI · MCP | REST API that validates spreadsheet records against business rules; an LLM agent rereads rejects and recovers what it can as structured JSON. 13 automated tests |
 | [pipeline-tendencia-conteudo](https://github.com/miguelvzs/pipeline-tendencia-conteudo) | Python · Docker · Fly.io | Autonomous trend→post pipeline: signal capture, AI triage, art and video generation, TikTok publishing, no human in the loop |
+| [Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon) · [demo](https://quebra-gelo.julioakamine.com) | TypeScript · Vite · Express | Hackathon project: a virtual pet that only moves forward when you meet someone for real at the event, with a live networking board for organizers |
 | [vellfinancing](https://github.com/miguelvzs/vellfinancing) · [live](https://mvfinancing.vercel.app) | JavaScript · Drizzle · Postgres | Personal finance app in pt-BR: transactions, budgets, goals, investments and OFX/CSV bank statement import |
-| [site-crie](https://github.com/miguelvzs/site-crie) · [live](https://site-crie.vercel.app) | Next.js · Tailwind | Site for CRIE / APAE de Extrema, a university extension project at IFSP |
-| [portfolio](https://github.com/miguelvzs/portfolio) · [live](https://miguelvaz.vercel.app) | React · TypeScript · Vite | Personal site in pt/en/es with case studies and a live demo of the record validator |
 
-### Also building
-
-- **Morada** — mobile app for immigrants: money, documents and community in a new country. Expo + Next.js API + Prisma, pt/es/en. *In progress, private.*
-- **Quebra-Gelo** — hackathon project: a virtual pet that only moves forward when you talk to someone for real at the event. [Demo](https://quebra-gelo.julioakamine.com)
-- **Client work for a media company** — internal hub for screens, scheduling, contracts and billing (Next.js 16, Prisma, Postgres, AI assistant), a task and payment tracker on top of Google Sheets, and a [news card generator](https://noticiaskss.vercel.app) with canvas export.
+Also: [site-crie](https://github.com/miguelvzs/site-crie) (university extension project for APAE de Extrema), a [news card generator](https://noticiaskss.vercel.app), a task and payment tracker on top of Google Sheets, and my [portfolio](https://github.com/miguelvzs/portfolio).
 
 ### GitHub analytics
 
