@@ -29,7 +29,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**Morada** <sub>· private, in progress</sub><br/>
+**[Morada](https://getmorada.app)** <sub>· in progress · [getmorada.app](https://getmorada.app)</sub><br/>
 Mobile app for immigrants: money, who owes you, goals, document deadlines and a city community. pt/es/en.<br/>
 <sub>Expo · Next.js · Prisma · Postgres</sub>
 
