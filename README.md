@@ -118,7 +118,7 @@ Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV
 
 <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,python,fastapi,postgres,prisma,tailwind,vite,threejs,docker,gcp,vercel,githubactions,git&perline=17" />
 
-| | |
+| Area | Tools |
 |---|---|
 | **Languages** | TypeScript, JavaScript, Python, SQL, C# |
 | **Front end** | React, Next.js, Tailwind CSS, TanStack Query, Expo, three.js |
