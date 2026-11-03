@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:111111&height=200&section=header&text=miguel%20vaz&fontSize=65&fontColor=eeeeee&fontAlignY=45&animation=twinkling&desc=full%20stack%20developer%20%C2%B7%20AI%20engineering&descAlignY=65&descSize=18&descColor=777777" width="100%"/>
+<img src="assets/banner.png" width="100%" alt="Miguel Vaz: full stack developer and AI engineering"/>
 
 <a href="https://miguelvaz.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=B0B0B0&center=true&vCenter=true&width=520&lines=shipping+systems+to+production+end+to+end;LLM+agents+that+validate+and+recover+data;MCP+servers+%C2%B7+cloud+%C2%B7+CI%2FCD;TypeScript+%C2%B7+Next.js+%C2%B7+Postgres+%C2%B7+Python" alt="Typing intro"/></a>
 
@@ -92,6 +92,6 @@ Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV
 <img src="https://github-readme-stats-fmvini.vercel.app/api?username=miguelvzs&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&icon_color=9CA3AF&text_color=B0B0B0&cache_seconds=86400" height="150"/>
 <img src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&hide_border=true&hide_title=true&bg_color=0D0D0D&text_color=B0B0B0&cache_seconds=86400" height="150"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1a1a1a,100:111111&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2541,50:103659,100:174a72&height=100&section=footer" width="100%"/>
 
 </div>
