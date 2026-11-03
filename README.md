@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Miguel Vaz: full stack developer and AI engineering"/>
+<img src="assets/banner-readme.png" width="100%" alt="Miguel Vaz: full stack developer and AI engineering"/>
 
 <a href="https://miguelvaz.vercel.app"><img src="https://img.shields.io/badge/portfolio-0a2541?style=for-the-badge&logo=vercel&logoColor=cfe2fa" alt="Portfolio"/></a>
 <a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/linkedin-0a2541?style=for-the-badge&logo=linkedin&logoColor=cfe2fa" alt="LinkedIn"/></a>
