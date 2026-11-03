@@ -2,24 +2,58 @@
 
 <img src="assets/banner.png" width="100%" alt="Miguel Vaz: full stack developer and AI engineering"/>
 
-<a href="https://miguelvaz.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=B0B0B0&center=true&vCenter=true&width=520&lines=shipping+systems+to+production+end+to+end;LLM+agents+that+validate+and+recover+data;MCP+servers+%C2%B7+cloud+%C2%B7+CI%2FCD;TypeScript+%C2%B7+Next.js+%C2%B7+Postgres+%C2%B7+Python" alt="Typing intro"/></a>
-
-<a href="https://miguelvaz.vercel.app"><img src="https://img.shields.io/badge/portfolio-111111?style=for-the-badge&logo=vercel&logoColor=eeeeee" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=eeeeee" alt="LinkedIn"/></a>
-<a href="mailto:miguelsouza7970@gmail.com"><img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=eeeeee" alt="Email"/></a>
+<a href="https://miguelvaz.vercel.app"><img src="https://img.shields.io/badge/portfolio-0a2541?style=for-the-badge&logo=vercel&logoColor=cfe2fa" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/miguelvzs"><img src="https://img.shields.io/badge/linkedin-0a2541?style=for-the-badge&logo=linkedin&logoColor=cfe2fa" alt="LinkedIn"/></a>
+<a href="mailto:miguelsouza7970@gmail.com"><img src="https://img.shields.io/badge/email-0a2541?style=for-the-badge&logo=gmail&logoColor=cfe2fa" alt="Email"/></a>
 
 </div>
 
 <br/>
 
-### About
+I'm a full stack developer from Extrema, Brazil. I take systems from the first conversation with the people who will use them to production: data model, API, interface, cloud, deploy and the AI pieces in between. Before software I worked in manufacturing R&D and operations, so I tend to build for the people on the floor, not for the demo.
 
-- Full stack in TypeScript: architecture, front end, back end, cloud, security and deploy
-- LLMs in real systems: agents that classify, extract and validate data, plus MCP servers that expose tools to agents
-- Cloud migrations to Google Cloud, gated deploys with GitHub Actions, health checks and rollback
-- Spec-driven development, 550+ automated tests across projects
-- Came from R&D and operations in manufacturing, which shapes what I build
-- Systems Development at SENAI, Systems Analysis and Development at IFSP
+<br/>
+
+### What I work on
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product engineering**<br/>
+TypeScript end to end: Next.js and React on the front, Node.js with Fastify or Express on the back, PostgreSQL with Prisma underneath. Accessible interfaces (WCAG AA), role-based access, audit trails.
+
+</td>
+<td width="50%" valign="top">
+
+**Cloud and delivery**<br/>
+Google Cloud with Terraform: Cloud Run, Cloud SQL, Secret Manager, load balancing. CI/CD on GitHub Actions with Workload Identity Federation, secret scanning, QA on every merge and gated production deploys. Production database migrations with rehearsal, checksums and rollback.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Applied AI**<br/>
+LLM pipelines that hold up in production: structured output validated with Zod, answers anchored to their source to catch hallucinations, a second model reviewing the first, confidence thresholds with human approval, and models picked by blind evaluation. Streaming transcription, document OCR, vision, MCP servers. Claude, Gemini and GPT through Vertex AI and OpenRouter.
+
+</td>
+<td width="50%" valign="top">
+
+**Data and security**<br/>
+PostgreSQL modeled in raw, trusted and refined layers, row-level security and outbox-based integrations. Secrets only in a secret manager, no direct access to production data, LGPD from the first spec.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### How I work
+
+- **Spec before code.** Product, scope and security written in markdown first; decisions recorded as ADRs; open questions stay open instead of becoming guesses.
+- **Tests as the contract.** Vitest and Playwright, 550+ automated tests across projects.
+- **AI agents in the loop, with guardrails.** I build with Claude Code and Cursor; the spec, the tests and code review decide what ships.
 
 <br/>
 
@@ -29,16 +63,16 @@
 <tr>
 <td width="50%" valign="top">
 
-**[Morada](https://getmorada.app)** <sub>· in progress · [getmorada.app](https://getmorada.app)</sub><br/>
-Mobile app for immigrants: money, who owes you, goals, document deadlines and a city community. pt/es/en.<br/>
-<sub>Expo · Next.js · Prisma · Postgres</sub>
+**[Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon)** <sub>· 1st place, OpenAI hackathon · [demo](https://quebra-gelo.julioakamine.com)</sub><br/>
+Won the OpenAI DevDay Exchange Community Hackathon out of 25 teams, run by the OpenAI Codex Ambassadors in São Paulo. A virtual pet that only moves forward when you meet someone for real: real-time multiplayer over WebSocket, pets generated by a multimodal model with structured output and an on-device fallback, and a live board for the organizers.<br/>
+<sub>TypeScript · Vite · Express · WebSocket · OpenRouter</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Media ops hub** <sub>· client work</sub><br/>
-Internal system in production for a media company: screens, library, scheduling, contracts, billing and an AI assistant.<br/>
-<sub>Next.js 16 · Prisma · Postgres · AI SDK</sub>
+**[Morada](https://getmorada.app)** <sub>· in progress · [getmorada.app](https://getmorada.app)</sub><br/>
+Mobile app for immigrants: money, who owes you, goals, document deadlines and a city community, in Portuguese, Spanish and English.<br/>
+<sub>Expo · React Native · Next.js · Prisma · PostgreSQL</sub>
 
 </td>
 </tr>
@@ -46,31 +80,31 @@ Internal system in production for a media company: screens, library, scheduling,
 <td width="50%" valign="top">
 
 **[validador-registros-tabulares](https://github.com/miguelvzs/validador-registros-tabulares)**<br/>
-Validates spreadsheet records against business rules; an LLM agent rereads rejects and recovers what it can.<br/>
-<sub>Python · FastAPI · MCP</sub>
+Validates spreadsheet records against business rules; an LLM agent rereads the rejects and recovers what it can. Exposed as an MCP server.<br/>
+<sub>Python · FastAPI · Pandas · Claude · MCP</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **[pipeline-tendencia-conteudo](https://github.com/miguelvzs/pipeline-tendencia-conteudo)**<br/>
-Trend to post with no human in the loop: signal capture, AI triage, art and video, TikTok publishing.<br/>
-<sub>Python · Docker · Fly.io</sub>
+Trend to post with no human in the loop: signal capture, AI triage, art and video generation, TikTok publishing.<br/>
+<sub>Python · Claude · Docker · Fly.io</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**[Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon)** <sub>· 🏆 1st place, OpenAI hackathon · [demo](https://quebra-gelo.julioakamine.com)</sub><br/>
-Won the OpenAI DevDay Exchange Community Hackathon out of 25 teams, run by the OpenAI Codex Ambassadors in São Paulo: a virtual pet that only moves forward when you meet someone for real, with a live board for organizers.<br/>
-<sub>TypeScript · Vite · Express</sub>
+**Media ops hub** <sub>· client work</sub><br/>
+Internal system in production for a media company: screens, library, scheduling, contracts, billing and an AI assistant.<br/>
+<sub>Next.js 16 · Prisma · PostgreSQL · AI SDK</sub>
 
 </td>
 <td width="50%" valign="top">
 
 **[vellfinancing](https://github.com/miguelvzs/vellfinancing)**<br/>
 Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV bank import.<br/>
-<sub>JavaScript · Drizzle · Postgres</sub>
+<sub>JavaScript · Drizzle · PostgreSQL</sub>
 
 </td>
 </tr>
@@ -82,15 +116,32 @@ Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,python,fastapi,postgres,prisma,tailwind,docker,gcp,vercel,githubactions,git&perline=15" />
+<img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,python,fastapi,postgres,prisma,tailwind,vite,threejs,docker,gcp,vercel,githubactions,git&perline=17" />
+
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, SQL, C# |
+| **Front end** | React, Next.js, Tailwind CSS, TanStack Query, Expo, three.js |
+| **Back end** | Node.js, Fastify, Express, FastAPI, Prisma, Drizzle, Zod |
+| **Data** | PostgreSQL, Cloud SQL, Redis |
+| **Cloud and ops** | Google Cloud, Terraform, Docker, GitHub Actions, Vercel, Fly.io |
+| **AI** | Vertex AI, Anthropic API, OpenRouter, AI SDK, MCP, Gemini Live |
+| **Quality** | Vitest, Playwright, ESLint, accessibility (WCAG AA) |
 
 <br/>
+
+### Background
+
+- **Recognition:** 1st place, OpenAI DevDay Exchange Community Hackathon, São Paulo, 2026 (25 teams)
+- **Education:** Systems Analysis and Development at IFSP (in progress) · Systems Development Technician at SENAI · technical drawing and electromechanical maintenance
+- **Before software:** R&D at Soft Film, apprenticeships at Hutchinson and Panasonic
+
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats-fmvini.vercel.app/api?username=miguelvzs&show_icons=true&hide_border=true&hide_title=true&bg_color=0D0D0D&icon_color=9CA3AF&text_color=B0B0B0&cache_seconds=86400" height="150"/>
-<img src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&hide_border=true&hide_title=true&bg_color=0D0D0D&text_color=B0B0B0&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats-fmvini.vercel.app/api?username=miguelvzs&show_icons=true&hide_border=true&hide_title=true&bg_color=0a2541&icon_color=8fc0ff&text_color=cfe2fa&cache_seconds=86400" height="150"/>
+<img src="https://github-readme-stats-fmvini.vercel.app/api/top-langs/?username=miguelvzs&layout=compact&hide_border=true&hide_title=true&bg_color=0a2541&text_color=cfe2fa&cache_seconds=86400" height="150"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2541,50:103659,100:174a72&height=100&section=footer" width="100%"/>
 
