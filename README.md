@@ -14,7 +14,7 @@ I'm a full stack developer from Extrema, Brazil. I take systems from the first c
 
 <br/>
 
-### What I work on
+## What I work on
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ PostgreSQL modeled in raw, trusted and refined layers, row-level security and ou
 
 <br/>
 
-### How I work
+## How I work
 
 - **Spec before code.** Product, scope and security written in markdown first; decisions recorded as ADRs; open questions stay open instead of becoming guesses.
 - **Tests as the contract.** Vitest and Playwright, 550+ automated tests across projects.
@@ -57,7 +57,7 @@ PostgreSQL modeled in raw, trusted and refined layers, row-level security and ou
 
 <br/>
 
-### Projects
+## Projects
 
 <table>
 <tr>
@@ -114,7 +114,7 @@ Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV
 
 <br/>
 
-### Stack
+## Stack
 
 <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,express,python,fastapi,postgres,prisma,tailwind,vite,threejs,docker,gcp,vercel,githubactions,git&perline=17" />
 
@@ -130,7 +130,7 @@ Personal finance in pt-BR: transactions, budgets, goals, investments and OFX/CSV
 
 <br/>
 
-### Background
+## Background
 
 - **Recognition:** 1st place, OpenAI DevDay Exchange Community Hackathon, São Paulo, 2026 (25 teams)
 - **Education:** Systems Analysis and Development at IFSP (in progress) · Systems Development Technician at SENAI · technical drawing and electromechanical maintenance
